@@ -18,3 +18,5 @@
 ## Hints
 - Use "git remote -v" command to check from where you are pushing/pulling
 - Use "git checkout -b <branch_name> to create and switch to the new branch"
+
+Avishay OWNED IT!
